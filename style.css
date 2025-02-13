@@ -1,0 +1,80 @@
+header.topbar{
+
+    background-color:black;
+    text-align: center;
+    color: orange;
+
+}
+
+
+
+img.imagenes{
+
+    height: 150px;
+    width: 120px;
+
+}
+
+body.color{
+
+background-color: aquamarine;
+
+
+}
+
+div.postbar {
+    width: 100%;
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+
+}
+
+div.blanco, div.negro {
+    width: 50%;
+    height: 50px;
+}
+
+div.blanco {
+    background-color: white;
+}
+
+div.negro {
+    background-color: black;
+}
+
+img.ratavoladora{
+
+position: fixed;
+bottom: 50px;
+right: 0;
+
+}
+
+
+div.taquillas{
+
+    background-color: white;
+    border-radius: 3px;
+    border: 3px;
+    border-color: grey;
+    border-style:outset;
+    
+}
+
+h3.taquillas{
+
+    text-align:center;
+    font-size: 20px;
+
+}
+
+div.formulario{
+
+align-items: center;
+align-content: center;
+background-color: grey;
+width: 50%;
+
+}
